@@ -1,0 +1,336 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "user_uniqueid": 1,
+            "user_type": "admin",
+            "full_name": "Martin Joman",
+            "email": "martin@gmail.com",
+            "phone_number": "081212345678",
+            "refferal_code": "ABC123",
+            "points": 0,
+            "password": "Martin1231"
+        },
+        {
+            "id": 2,
+            "user_uniqueid": 2,
+            "user_type": "admin",
+            "full_name": "Syahrin Matlail",
+            "email": "syahrin@gmail.com",
+            "phone_number": "081212345679",
+            "refferal_code": "BCA321",
+            "points": 0,
+            "password": "Syahrin123"
+        },
+        {
+            "id": 3,
+            "user_uniqueid": 3,
+            "user_type": "admin",
+            "full_name": "Arya Bintang",
+            "email": "arya@gmail.com",
+            "phone_number": "081212345677",
+            "refferal_code": "CAB213",
+            "points": 0,
+            "password": "Arya1234"
+        }
+    ],
+
+    "ticketType": [
+        {
+            "id": 1,
+            "ticket_uniqueid": 1,
+            "ticket_name": "Death",
+            "ticket_image": ["https://upload.wikimedia.org/wikipedia/commons/8/89/Death_Mexico_06-89.jpg"],
+            "ticket_date": "07-07-2024",
+            "ticket_location": "Serengeti National Park, Tanzania",
+            "ticket_stock": 5000,
+            "ticket_price": 20000
+        },
+        {
+            "id": 2,
+            "ticket_uniqueid": 2,
+            "ticket_name": "Canibal Corpse",
+            "ticket_image": ["https://www.vertigo.co.it/wp-content/uploads/2022/04/CC_sito_artista.jpg"],
+            "ticket_date": "10-10-2024",
+            "ticket_location": "Santorini, Greece",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 3,
+            "ticket_uniqueid": 3,
+            "ticket_name": "Possessed",
+            "ticket_image": ["https://i.scdn.co/image/ab6772690000c46cd1e63613d839e32101b8acf6"],
+            "ticket_date": "22-March 2023",
+            "ticket_location": "Angkor Wat, Cambodia",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 4,
+            "ticket_uniqueid": 4,
+            "ticket_name": "Suffocation",
+            "ticket_image": ["https://chalkvenue.com/media/1225/conversions/Suffocation-medium.jpg"],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Machu Picchu, Peru",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 5,
+            "ticket_uniqueid": 5,
+            "ticket_name": "Nile",
+            "ticket_image": ["https://lh3.googleusercontent.com/NGeRfhmLHoVTi7k196rqW2XLaiVBfIcye6X7dlVSz4kWMVh3C4Df7Va8s3IR-fGImfcw915ar0_7q_8=w544-h544-p-l90-rj"],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Sydney Opera House, Australia",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 6,
+            "ticket_uniqueid": 6,
+            "ticket_name": "Deadsquad",
+            "ticket_image": ["https://www.kitatv.com/wp-content/uploads/2016/04/Artikel-Musik_Profil-Band-Indie-DeadSquad.jpg"],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Petra, Jordan",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 7,
+            "ticket_uniqueid": 7,
+            "ticket_name": "Napalm Death",
+            "ticket_image": ["https://charon.flyn.cz/content//images/artist-image/napalm-death_thumb.jpeg"],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Chichen Itza, Mexico",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 8,
+            "ticket_uniqueid": 8,
+            "ticket_name": "Orbituary",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Reykjavik, Iceland",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 9,
+            "ticket_uniqueid": 9,
+            "ticket_name": "Decide",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "The Great Wall of China, China",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 10,
+            "ticket_uniqueid": 10,
+            "ticket_name": "Carcass",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Rio de Janeiro, Brazil",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 11,
+            "ticket_uniqueid": 11,
+            "ticket_name": "Megadeth",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Los Angeles, USA",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 12,
+            "ticket_uniqueid": 12,
+            "ticket_name": "Slayer",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Berlin, Germany",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 13,
+            "ticket_uniqueid": 13,
+            "ticket_name": "Iron Maiden",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "London, UK",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 14,
+            "ticket_uniqueid": 14,
+            "ticket_name": "Metallica",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "San Fransisco, USA",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 15,
+            "ticket_uniqueid": 15,
+            "ticket_name": "Black Sabbath",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Birmingham, UK",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 16,
+            "ticket_uniqueid": 16,
+            "ticket_name": "Pantera",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Dallas, USA",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 17,
+            "ticket_uniqueid": 17,
+            "ticket_name": "Judas Priest",
+            "ticket_image": ["https://www.freepik.com/premium-vector/hard-rock-music-festival-poster_7777421.html"],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "London, UK",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 18,
+            "ticket_uniqueid": 18,
+            "ticket_name": "Sepultura",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "São Paulo, Brazil",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 19,
+            "ticket_uniqueid": 19,
+            "ticket_name": "Slipknot",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "Des Moines, USA",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        },
+        {
+            "id": 20,
+            "ticket_uniqueid": 20,
+            "ticket_name": "Anthrax",
+            "ticket_image": [" "],
+            "ticket_date": "22-March 2024",
+            "ticket_location": "New York, USA",
+            "ticket_stock": 5000,
+            "ticket_price": 50000
+        }
+    ],
+
+    "ticketOwn": [
+        {
+            "id": 1,
+            "user_uniqueid": 1,
+            "ticket_uniqueid": 1,
+            "ticket_own_amount": 1
+        },
+        {
+            "id": 2,
+            "user_uniqueid": 2,
+            "ticket_uniqueid": 1,
+            "ticket_own_amount": 1
+        },
+        {
+            "id": 3,
+            "user_uniqueid": 3,
+            "ticket_uniqueid": 2,
+            "ticket_own_amount": 1
+        },
+        {
+            "id": 4,
+            "user_uniqueid": 3,
+            "ticket_uniqueid": 1,
+            "ticket_own_amount": 1
+        }
+    ],
+
+    "ticketPurchaseHistory": [
+        {
+            "id": 1,
+            "user_uniqueid": 1,
+            "ticket_uniqueid": 1,
+            "ticket_purchase_amount": 1
+        },
+        {
+            "id": 2,
+            "user_uniqueid": 1,
+            "ticket_uniqueid": 2,
+            "ticket_purchase_amount": 2
+        },
+        {
+            "id": 3,
+            "user_uniqueid": 2,
+            "ticket_uniqueid": 3,
+            "ticket_purchase_amount": 1
+        },
+        {
+            "id": 4,
+            "user_uniqueid": 1,
+            "ticket_uniqueid": 1,
+            "ticket_purchase_amount": 1
+        }
+    ],
+
+    "merchandiseType": [
+        {
+            "id": 1,
+            "merchandise_uniqueid": 1,
+            "merchandise_name": "Botol A",
+            "merchandise_image": [""],
+            "merchandise_stock": 30000,
+            "merchandise_price": 50
+        },
+        {
+            "id": 2,
+            "merchandise_uniqueid": 2,
+            "merchandise_name": "Botol B",
+            "merchandise_image": [""],
+            "merchandise_stock": 30000,
+            "merchandise_price": 100
+        },
+        {
+            "id": 3,
+            "merchandise_uniqueid": 3,
+            "merchandise_name": "Botol C",
+            "merchandise_image": [""],
+            "merchandise_stock": 30000,
+            "merchandise_price": 70
+        }
+    ],
+
+    "merchandisePurchaseHistory": [
+        {
+            "id": 1,
+            "user_uniqueid": 1,
+            "merchandise_uniqueid": 2,
+            "merchandise_purchase_amount": 1
+        },
+        {
+            "id": 2,
+            "user_uniqueid": 1,
+            "merchandise_uniqueid": 1,
+            "merchandise_purchase_amount": 1
+        }
+    ]
+}

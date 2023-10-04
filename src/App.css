@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@font-face {
+  font-family: josh;
+  src: url(../src/Utilities/Font/JOST-VARIABLEFONT_WGHT.TTF);
+}
+.josh {
+  font-family: josh;
+}
+
+
+/* Ini untuk font */
+@font-face {
+  font-family: geometr;
+  src: url(../src/Utilities/Font/TT0524M_.TTF);
+}
+.geometr {
+  font-family: geometr;
+}
+
+@font-face {
+  font-family: montserratMedium;
+  src: url(../src/Utilities/Font/MontserratMedium-lgZ6e.otf);
+}
+.montserratmedium {
+  font-family: montserratMedium;
+}
+
+
+@font-face {
+  font-family: montserratBold;
+  src: url(../src/Utilities/Font/MontserratBold-p781R.otf);
+}
+.montserratbold {
+  font-family: montserratBold;
+}
